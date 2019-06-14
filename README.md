@@ -20,12 +20,16 @@ Starts on `http://localhost:3000`
     npm run build
 ```
 
-## Development technologies and details
+## Package.json dependencies
 * React.js
+* React-redux
+* React-detect-offline
 * Redux
-* React Redux
+* Redux-thunk
+* Prop-Types
+* Lodash
+* Moment
+* Node-sass
 * Sass
 * Material UI
-* Node-sass
-* Moment
 
