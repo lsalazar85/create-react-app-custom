@@ -1,4 +1,4 @@
-# React Base Project App
+# Create React App Custom Project
 
 Base project with work dependencies
 
